@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Kacper
 
-![image](https://github.com/chmielewskikacper/chmielewskikacper/assets/137807430/fe3b0a54-554b-4654-b7cb-a0e308980613)
+![image](https://github.com/chmielewskikacper/chmielewskikacper/assets/137807430/6f96e721-dd38-46dd-9ad5-5c1f411ae0ed)
 My interest in programming arose during my master's degree studies, during which we’ve learned the basics of programming in Phyton.
 I used the knowledge I acquired there when writing my master's thesis. After graduating, my professional path changed, but my passion for
 exploring topics related to programming remained. I’ve decided to spend my free time educating myself in this area so that I could connect my professional future

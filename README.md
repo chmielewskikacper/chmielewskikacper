@@ -7,7 +7,7 @@ exploring topics related to programming remained. I’ve decided to spend my fre
 with working in IT. Currently, I am at the beginning of this path, but it’s important to me to have a job which will let me to further develop my skills and expand my knowledge.
 
 
-- 🔭 I’m currently working on https://github.com/chmielewskikacper/MealPlanner
+- 🔭 I’m currently working on https://github.com/chmielewskikacper/StrategicLaserClash
 - 🌱 I’m currently learning JAVA 9, Spring, Hibernate, MySQL
 - 🤔 I’m looking for help with improve my java code skills
 - 📫 How to reach me: chmielewskikacper97@gmail.com
